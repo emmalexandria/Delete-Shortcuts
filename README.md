@@ -1,3 +1,5 @@
+***Note: this is the first ever software project I made that wasn't from a tutorial when I was self-teaching. I was around 15, and I keep it around because its interesting to look at what my old sensibilities were.***
+
 # Delete-Shortcuts
 Simple program to delete shortcuts from the specified directory.
 
